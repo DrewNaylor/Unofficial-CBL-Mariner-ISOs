@@ -31,13 +31,13 @@ Update swig to 4.0.2
 
 CVE-2015-9541
 CVE-2018-19787
-CVE-2019-18874
+[CVE-2019-18874](https://github.com/advisories/GHSA-qfc5-mcwq-26q8)
 CVE-2020-0570
-CVE-2020-10108
-CVE-2020-10109
+[CVE-2020-10108](https://github.com/advisories/GHSA-h96w-mmrf-2h6v)
+[CVE-2020-10109](https://github.com/advisories/GHSA-p5xh-vx83-mxcj)
 CVE-2020-13962
-CVE-2020-27783
-CVE-2021-28957
+[CVE-2020-27783](https://github.com/advisories/GHSA-pgww-xf46-h92r)
+[CVE-2021-28957](https://github.com/advisories/GHSA-jq4v-f5q6-mjqq)
 CVE-2021-3274
 CVE-2021-3445
 CVE-2021-3546
