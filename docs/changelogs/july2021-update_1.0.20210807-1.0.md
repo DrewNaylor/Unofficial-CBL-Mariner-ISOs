@@ -12,7 +12,7 @@ cbl-mariner_full-july-2021-update-1.0.20210818.0515.iso:<br>
 
 ## Archived Changelog
 
-This changelog was written by jslobodzian I assume, as they published the [release it was copied from](https://github.com/microsoft/CBL-Mariner/releases/tag/1.0.20210807-1.0). It's being archived here for preservation reasons.
+This changelog was written by jslobodzian I assume, as they published the [release it was copied from](https://github.com/microsoft/CBL-Mariner/releases/tag/1.0.20210807-1.0). It's being archived here for preservation reasons. While I tried to make sure each link was correct, there's the possibility that something was copied incorrectly, so please let me know and I'll fix it.
 
 "Update kernel to 5.10.52.1
 
@@ -45,10 +45,10 @@ CVE-2021-22922
 CVE-2021-22923
 CVE-2021-22924
 CVE-2021-22925
-CVE-2021-32760
-CVE-2021-33503
+[CVE-2021-32760](https://github.com/advisories/GHSA-c72p-9xmj-rx3w)
+[CVE-2021-33503](https://github.com/advisories/GHSA-q2q7-5pp4-w6pg)
 CVE-2021-33910
 CVE-2021-35942
-CVE-2021-32740
-CVE-2021-36373
-CVE-2021-36374"
+[CVE-2021-32740](https://github.com/advisories/GHSA-jxhc-q857-3j6g)
+[CVE-2021-36373](https://github.com/advisories/GHSA-q5r4-cfpx-h6fh)
+[CVE-2021-36374](https://github.com/advisories/GHSA-5v34-g2px-j4fw)"
