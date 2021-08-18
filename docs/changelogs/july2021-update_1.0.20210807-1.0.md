@@ -2,18 +2,17 @@
 
 You'll find the ISO image attached to this release, with its SHA256 sum in the release text itself. This build is **unofficial** and **not endorsed by Microsoft**. The source code this ISO was built from is also attached, for archival reasons.
 
-Details from the version just before it that I think is supposed to be the same thing: https://github.com/microsoft/CBL-Mariner/releases/tag/1.0.20210628-1.0
-
-Official tag, which is the same tag this ISO was built from: https://github.com/microsoft/CBL-Mariner/releases/tag/1.0-stable
+Official tag this ISO was built from:
+https://github.com/microsoft/CBL-Mariner/releases/tag/1.0.20210807-1.0
 
 ## SHA256 Sums
 
-cbl-mariner_full-1.0.20210719.1654.iso:<br>
-A4F6490178F3A189F94324C3F58E18ECED209315776D0B703230E25AA032914E
+cbl-mariner_full-july-2021-update-1.0.20210818.0515.iso:<br>
+1D8630C5B4ADC5EC6110220A0CBAA5EDC524BC4CDFE83F0A88DE0DFC5765C5E8
 
 ## Archived Changelog
 
-This changelog was written by anphel31 I assume, as they published the [release it was copied from](https://github.com/microsoft/CBL-Mariner/releases/tag/1.0.20210628-1.0).
+This changelog was written by jslobodzian I assume, as they published the [release it was copied from](https://github.com/microsoft/CBL-Mariner/releases/tag/1.0.20210807-1.0).
 
 "Kernel/System changes
 
