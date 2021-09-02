@@ -1,6 +1,6 @@
 # CBL-Mariner 1.0.20210819-1.0 (July 2021 Update-2) Unofficial ISO
 
-You'll find the ISO image attached to this release, with its SHA256 sum in the release text itself. This build is **unofficial** and **not endorsed by Microsoft**. The source code this ISO was built from is also attached, for archival reasons.
+You'll find the ISO image attached to this release, with its SHA256 sum in the release text itself. This build is **unofficial** and **not endorsed by Microsoft**. The source code this ISO was built from is also attached, for archival reasons. Update Sept. 2, 2021: I forgot to attach the source code before, but it's on there now.
 
 Please note that the filename may not line up with the original tag it was built from due to the build process using the current date for the filename rather than the tag.
 
