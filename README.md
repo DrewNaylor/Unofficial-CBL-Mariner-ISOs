@@ -7,3 +7,6 @@ You'll find the ISOs under the `Releases` page in the sidebar. Please see the of
 
 I made a video showing the process of building, installing, and trying to use CBL-Mariner, if you'd like to watch it:
 https://youtu.be/mWw9QD2yy4w
+
+
+**Update 9-30-2021**: Microsoft has begun publishing builds with a link in the CBL-Mariner readme, so I've decided to stop doing my own builds unless people want me to continue. Link to the section of the readme with the link: https://github.com/microsoft/CBL-Mariner#iso
